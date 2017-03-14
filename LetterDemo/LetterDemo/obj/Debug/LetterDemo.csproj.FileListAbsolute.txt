@@ -1,0 +1,6 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\bin\Debug\LetterDemo.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\bin\Debug\LetterDemo.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\bin\Debug\LetterDemo.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\obj\Debug\LetterDemo.csprojResolveAssemblyReference.cache
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\obj\Debug\LetterDemo.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\InClassExercises\LetterDemo\LetterDemo\obj\Debug\LetterDemo.pdb
